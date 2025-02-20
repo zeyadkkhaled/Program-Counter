@@ -14,3 +14,4 @@ This project is a simple **counter application** built using **JavaScript, HTML,
 - **HTML**
 - **CSS**
 
+![Image](https://github.com/user-attachments/assets/8f9d485d-c837-4a69-86fe-879ee3f665d9)
