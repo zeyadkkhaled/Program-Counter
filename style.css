@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#countLabel{
+    font-size: 10rem;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+#decreasebtn , #increasebtn , #resetbtn{
+    background-color: #7bb4fe;
+    padding: 20px 20px;
+    margin: 10px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#decreasebtn:hover , #increasebtn:hover , #resetbtn:hover{
+    background-color:#2581fc;
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
